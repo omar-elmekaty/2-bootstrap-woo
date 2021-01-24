@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font: 400 15px Lato, sans-serif;
+   
+}
+/*NavBar*/
+.navbar{
+     padding-top: 5px;
+     margin-bottom: 0;
+     background-color: #f4511e;
+     font-size: 15px !important;
+     letter-spacing: 4px;
+    
+}
+.navbar-nav li{
+    margin-left: 10px;
+}
+  .navbar-nav li a:hover, .navbar-nav li:active a {
+       
+      color: #f4511e !important;
+      background-color: #fff !important;
+}
+ 
+.navStyle{
+    background-color: #f4511e;
+    color: white;
+    padding-top: 0;
+}
+/*Jumpotron*/
+.jumbotron {
+      
+    background-color: #f4511e;
+    color: white;
+}
+
+
+/*About us*/
+.container-fluid{
+    
+    padding: 70px 60px;
+}
+.aboutUs{
+    padding-left: 30px;
+}
+
+.signal{
+        font-size: 10em;
+        color: #f4511e;
+        padding: 60px;
+    margin-left: 80px;
+}
+.globe{
+    font-size: 10em;
+    color: #f4511e;
+    padding: 10px;
+    
+    
+}
+.backg{
+    background-color: #f6f6f6;
+   
+    
+}
+/*Services*/
+.power,
+.love,
+.briefcase,
+.leaf,
+.wrench,
+.certificate{
+    font-size: 4em;
+    color: #f4511e;
+    padding-bottom: 10px;
+}
+/*Portofolio*/
+.portfolio{
+    background-color: #f6f6f6;
+   
+    margin-top: 0;
+}
+
+/*Crousel*/
+#ourCrousal{
+    background-color: #f6f6f6;
+    padding-top: 0;
+}
+
+.carousel-inner{
+    text-align: center;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    background-image: none;
+    color: #f4511e;
+    font-size: 35px;       
+}
+.carousel-indicators li{
+    background-color: #f4511e; 
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+/*Pricing*/
+.card-header{
+    background-color: #f4511e;
+    padding: 25px;
+    white-space: nowrap;
+}
+.btnO{
+     background-color: #f4511e;
+    color: white;
+    white-space: nowrap;
+}
+.btnO:hover{
+    background-color: white;
+    color: #f4511e;
+    border: 1px solid #f4511e;
+    white-space: nowrap;
+}
+.card-body{
+    line-height: 3rem;
+}
+.light{
+    background-color: #f4511e;
+    margin-bottom: 0;
+}
+.white{
+    font-size: 2em;
+    color:white;
+}
+
