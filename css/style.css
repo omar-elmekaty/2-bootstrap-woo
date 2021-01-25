@@ -137,7 +137,10 @@ body{
     }
     .container-fluid{
         width: 120%;
-        padding-right: 230px;
+        padding-right: 100px;
+    }
+    .container{
+        margin-left: 100px;
     }
     #ourCarousel{
         display: none;
