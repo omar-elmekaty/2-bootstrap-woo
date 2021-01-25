@@ -131,4 +131,19 @@ body{
     font-size: 2em;
     color:white;
 }
+@media (max-width:1024px){
+    .jumbotron{
+        width: 120%;
+    }
+    .container-fluid{
+        width: 120%;
+        padding-right: 230px;
+    }
+    #ourCarousel{
+        display: none;
+    }
+    iframe{
+        width: 120%;
+    }
+}
 
