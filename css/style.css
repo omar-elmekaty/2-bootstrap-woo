@@ -135,9 +135,13 @@ body{
 @media (max-width:1024px){
     .navbar button{
     margin-left: 900px;
+        margin-top: -20px;
 }
     
     
+.navbar-brand{
+    padding-top: 60px;
+}
     .jumbotron{
         width: 120%;
     }
