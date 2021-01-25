@@ -15,6 +15,7 @@ body{
      letter-spacing: 4px;
     
 }
+
 .navbar-nav li{
     margin-left: 10px;
 }
@@ -31,7 +32,7 @@ body{
 }
 /*Jumpotron*/
 .jumbotron {
-      
+      padding-top: 130px;
     background-color: #f4511e;
     color: white;
 }
@@ -132,6 +133,11 @@ body{
     color:white;
 }
 @media (max-width:1024px){
+    .navbar button{
+    margin-left: 900px;
+}
+    
+    
     .jumbotron{
         width: 120%;
     }
